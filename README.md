@@ -1,16 +1,52 @@
-## Hi there 👋
+👋 Hi, I'm Ritesh Kumar Mandal
 
-<!--
-**riteshkumarmandal2560-tech/riteshkumarmandal2560-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science Engineering student with a growing interest in Artificial Intelligence, Machine Learning, and Automation.
 
-Here are some ideas to get you started:
+I'm focused on strengthening my programming fundamentals, exploring how intelligent systems work, and building the skills needed to become an AI/ML Engineer.
+🚀 About Me
+- 🎓 Computer Science Engineering student from India.
+- 🐍 Learning Python and improving my programming skills.
+- 🤖 Interested in AI, Machine Learning, and Automation.
+- 📐 Mathematics is an important part of my learning journey.
+- 📚 An enthusiastic reader who enjoys learning beyond the classroom.
+- 🌱 Continuously learning, experimenting, and growing as a developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🛠️ Technologies & Tools :-----------
+
+Python        |
+              |
+Learnin   <---|
+
+
+
+Git                 |              
+                    |
+Version control  <--|
+
+
+
+GitHub           |
+                 |
+Code hosting  <--|
+
+
+
+AI & Automation  |
+                 |
+Exploring  <-----|
+
+
+🎯 My Current Goals :-------------
+
+- Strengthen my Python and problem-solving fundamentals.
+- Develop a deeper understanding of mathematics for AI and ML.
+- Learn the foundations of Machine Learning and Artificial Intelligence.
+- Build practical projects as my skills grow.
+ 
+📚 Beyond Coding :---------------
+When I'm not coding, I enjoy reading books and exploring mathematics. I believe curiosity, consistency, and continuous learning are essential to becoming a better engineer.
+🤝 Let's Connect
+I'm always interested in learning from other developers, exchanging ideas, and exploring new technologies.
+
+!!""" Always learning. Always building. Always improving. """!!
