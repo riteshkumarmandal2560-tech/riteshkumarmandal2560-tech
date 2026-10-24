@@ -14,27 +14,26 @@ I'm focused on strengthening my programming fundamentals, exploring how intellig
 
 🛠️ Technologies & Tools :-----------
 
-Python        |
-              |
-Learnin   <---|
+Python        
+              
+Learnin   
 
 
 
-Git                 |              
-                    |
-Version control  <--|
+Git
+
+Version control  
 
 
 
-GitHub           |
-                 |
-Code hosting  <--|
+GitHub
+
+Code hosting  
 
 
+AI & Automation
 
-AI & Automation  |
-                 |
-Exploring  <-----|
+Exploring
 
 
 🎯 My Current Goals :-------------
@@ -45,6 +44,7 @@ Exploring  <-----|
 - Build practical projects as my skills grow.
  
 📚 Beyond Coding :---------------
+
 When I'm not coding, I enjoy reading books and exploring mathematics. I believe curiosity, consistency, and continuous learning are essential to becoming a better engineer.
 🤝 Let's Connect
 I'm always interested in learning from other developers, exchanging ideas, and exploring new technologies.
